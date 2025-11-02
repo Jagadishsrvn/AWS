@@ -1,7 +1,7 @@
 # AWS EC2 and EBS 
 
 ## Objective
-Launch EC2 instances (Linux & Windows), configure web servers, attach and snapshot EBS volumes.
+Launch EC2 instances Linux, configure Apache web servers, attach EBS volumes and snapshots
 
 ## Steps
 1. Launch EC2 Instances
